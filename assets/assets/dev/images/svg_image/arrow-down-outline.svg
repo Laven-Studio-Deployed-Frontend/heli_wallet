@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="14px" viewBox="0 0 13 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-down-outline</title>
+    <g id="Wallet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Home---Mobile" transform="translate(-162, -213)" stroke="#FEE84C">
+            <g id="arrow-down-outline" transform="translate(163, 214)">
+                <path d="M0,6.46153846 L5.5,12 L11,6.46153846 M5.53090278,11.2307692 L5.53090278,0" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

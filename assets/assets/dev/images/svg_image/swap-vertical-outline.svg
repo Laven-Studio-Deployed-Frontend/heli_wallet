@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>swap-vertical-outline</title>
+    <g id="Wallet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Swap-Popup" transform="translate(-205, -167)" stroke="#FEE84C">
+            <g id="swap-vertical-outline" transform="translate(206, 168)">
+                <path d="M12,3.36 L8.76923077,0 L5.53846154,3.36 M8.80480769,0.5139 L8.80480769,9.6 M0,6.24 L3.23076923,9.6 L6.46153846,6.24 M3.26634615,9.06 L3.26634615,0" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

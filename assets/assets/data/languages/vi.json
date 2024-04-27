@@ -1,0 +1,14 @@
+{
+  "default.loading_message": "Đang tải...",
+
+  "internet_view.no_internet_title_snack_bar": "Không có internet!",
+  "internet_view.no_internet_content_snack_bar": "Một số tính năng sẽ không thể hoạt động nếu không có internet. Vui lòng kiểm tra lại kết nối internet.",
+  "internet_view.no_internet_button_snack_bar": "Đóng",
+
+  "dev_view.appbar": "Nhà phát triển | @demo_param",
+
+  "container":  "Tiếp tục",
+  "skip":  "Bỏ qua",
+  "email":"Đăng nhập bằng email",
+  "": ""
+}

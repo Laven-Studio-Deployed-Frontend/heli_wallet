@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>open-outline copy</title>
+    <g id="Mining" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Saving" transform="translate(-260, -595)" stroke="#FEE84C" stroke-width="1.5">
+            <g id="open-outline-copy" transform="translate(261, 596)">
+                <path d="M11.6666667,5.83333333 L11.6666667,12.5416667 C11.6666667,12.9284407 11.5130213,13.2993735 11.2395307,13.5728641 C10.9660402,13.8463546 10.5951074,14 10.2083333,14 L1.45833333,14 C0.652918073,14 0,13.3470819 0,12.5416667 L0,3.79166667 C0,2.98625141 0.652918073,2.33333333 1.45833333,2.33333333 L7.564375,2.33333333 M9.91666667,0 L14,0 L14,4.08333333 M5.83333333,8.16666667 L13.7083333,0.291666667" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

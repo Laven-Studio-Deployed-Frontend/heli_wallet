@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>copy-outline</title>
+    <g id="Wallet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Home---Mobile" transform="translate(-349, -215)" stroke="#FEE84C">
+            <g id="copy-outline" transform="translate(350, 216)">
+                <rect id="Rectangle" x="2" y="2" width="10" height="10" rx="3"></rect>
+                <path d="M9.98511905,2.38095238 L10,1.66666667 C9.99738437,0.747277693 9.25272231,0.00261563172 8.33333333,0 L1.9047619,0 C0.854079941,0.00310540374 0.00310540374,0.854079941 0,1.9047619 L0,8.33333333 C0.00261563172,9.25272231 0.747277693,9.99738437 1.66666667,10 L2.38095238,10" id="Path" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

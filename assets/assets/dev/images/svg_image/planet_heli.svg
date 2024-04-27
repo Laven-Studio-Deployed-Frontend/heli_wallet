@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="16px" viewBox="0 0 23 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>planet-outline</title>
+    <g id="Mining" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Heli---Home" transform="translate(-108, -552)" stroke="#FEE84C" stroke-width="1.5">
+            <g id="planet-outline" transform="translate(109, 553)">
+                <path d="M17.4878725,8.25463897 C20.0779516,10.3375786 21.5183998,12.1788902 21.0212384,13.0409027 C20.2358993,14.4011628 14.9153921,12.7992746 9.13776027,9.46277923 C3.36012848,6.12628384 -0.687557511,2.31887831 0.0973415987,0.959059125 C0.588343508,0.108951671 2.850648,0.415836934 5.88905229,1.58032541" id="Path"></path>
+                <circle id="Oval" cx="10.559322" cy="7" r="7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
